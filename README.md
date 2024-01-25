@@ -8,6 +8,7 @@ I am a third-year undergraduate student in the field of Information Technology. 
 
 * 🌍  I'm based in Medan, Indonesia
 * ✉️  You can contact me at [muhammad.hatta18@gmail.com](mailto:muhammad.hatta18@gmail.com)
+* 🤝  I'm open to collaborating on Interesting project
 
 ### Skills
 
