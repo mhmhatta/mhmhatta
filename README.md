@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer and Designer
 -------------------------------
 
-I am a third-year undergraduate student in the field of Information Technology. Starting from learning HTML, now I have a genuine enthusiasm for Machine Learning and Backend Development.
+I am a third-year undergraduate student in the field of Information Technology. Starting from learning HTML, I am genuinely enthusiastic about AI and Backend Development.
 
 * 🌍  I'm based in Medan, Indonesia
 * ✉️  You can contact me at [muhammad.hatta18@gmail.com](mailto:muhammad.hatta18@gmail.com)
-* 🤝  I'm open to collaborating on Interesting project
+* 🤝  I'm open to collaborating on an Interesting project
 
 ### Skills
 
