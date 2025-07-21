@@ -5,7 +5,7 @@ My name is Hatta Abdillah
 Software Developer and Designer
 -------------------------------
 
-I am a third-year undergraduate student in the field of Information Technology. Starting from learning HTML, I am genuinely enthusiastic about AI and Backend Development.
+A Computer Science graduate from the University of Sumatera Utara with a foundation in software development and a specialization in Artificial Intelligence. Starting from learning HTML, I am genuinely enthusiastic about AI and Backend Development.
 
 * 🌍  I'm based in Medan, Indonesia
 * ✉️  You can contact me at [muhammad.hatta18@gmail.com](mailto:muhammad.hatta18@gmail.com)
