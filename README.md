@@ -1,13 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My name is Hatta Abdillah
+Hi There![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
-Software Developer and Designer
+I'm Hatta Abdillah
 -------------------------------
 
 A Computer Science graduate from the University of Sumatera Utara with a foundation in software development and a specialization in Artificial Intelligence. Starting from learning HTML, I am genuinely enthusiastic about AI and Backend Development.
 
-* 🌍  I'm based in Medan, Indonesia
 * ✉️  You can contact me at [muhammad.hatta18@gmail.com](mailto:muhammad.hatta18@gmail.com)
 * 🤝  I'm open to collaborating on an Interesting project
 
