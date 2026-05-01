@@ -4,7 +4,7 @@ Hi There! [](https://user-images.githubusercontent.com/18350557/176309783-078594
 I'm Hatta Abdillah
 -------------------------------
 
-A Computer Science graduate from the University of Sumatera Utara with a foundation in software development and a specialization in Artificial Intelligence. Starting from learning HTML, I am genuinely enthusiastic about AI and Backend Development.
+Starting from learning HTML, genuinely enthusiastic about ML and AI Development.
 
 * ✉️  You can contact me at [muhammad.hatta18@gmail.com](mailto:muhammad.hatta18@gmail.com)
 * 🤝  I'm open to collaborating on a project
